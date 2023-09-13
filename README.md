@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20yee%20un%20&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20yeeun%20&fontSize=36&animation=fadeIn&fontAlignY=36)
 
 <div align="left">
 
